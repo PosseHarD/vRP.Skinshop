@@ -1,7 +1,6 @@
 # HarD Network
 
-<img src="https://media.discordapp.net/attachments/496107340173410304/742828028027076647/HarD_512x512_loop.gif?width=468&height=468">
-
+<img src="https://i.imgur.com/2f6eSu2.gif" alt="logo">
 
 ## 💻 Instalação
 Assista ao vídeo tutorial para aprender como efetuar a instalação da nossa loja:
