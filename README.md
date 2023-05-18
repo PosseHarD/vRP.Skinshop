@@ -1,6 +1,6 @@
 # HarD Network
 
-<img src="https://i.imgur.com/2f6eSu2.gif" alt="logo">
+<img src="https://i.imgur.com/rwGcsAP.png" alt="logo">
 
 ## 💻 Instalação
 Assista ao vídeo tutorial para aprender como efetuar a instalação da nossa loja:
