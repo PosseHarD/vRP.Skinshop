@@ -1,7 +1,7 @@
 # HarD Network
 
 <center>
-  <img src="https://i.imgur.com/rwGcsAP.png" width=566 height=566 alt="logo">
+  <img src="https://i.imgur.com/rwGcsAP.png" width=120 height=120 alt="logo">
 </center>
   
 ## 💻 Instalação
